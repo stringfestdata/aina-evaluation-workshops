@@ -2,6 +2,7 @@
 
 Resources for _Advancing into Analytics_ Presentation to Evaluation Workshops, 6/9/2021
 
-![](book.jpg)
+<img src="book.jpg" width="400">
+
 
 ## [Learn more about the book](http://georgejmount.com/book/)

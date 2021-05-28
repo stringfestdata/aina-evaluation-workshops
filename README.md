@@ -6,3 +6,5 @@ Resources for _Advancing into Analytics_ Presentation to Evaluation Workshops, 6
 
 
 ## [Learn more about the book](http://georgejmount.com/book/)
+
+Check out the slides for information on reading the book with a _free_ 30-day subscription to O'Reilly Online Learning.
